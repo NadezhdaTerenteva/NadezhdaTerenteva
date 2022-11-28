@@ -10,4 +10,4 @@
  
 #### Contacts:
 - [LinkedIn](https://www.linkedin.com/in/nadezhda-terenteva-224922127/)
-- [Mail](nadya_09@inbox.ru)
+- Mail: nadja.terenteva@gmail.com
