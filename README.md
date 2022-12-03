@@ -10,4 +10,5 @@
  
 #### Contacts:
 - [LinkedIn](https://www.linkedin.com/in/nadezhda-terenteva-224922127/)
+- [Telegram](t.me/nadya_terenteva)
 - Mail: nadja.terenteva@gmail.com
