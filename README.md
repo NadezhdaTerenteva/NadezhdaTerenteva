@@ -3,7 +3,7 @@
 ##### 🌱 currently exploring frontend development 
 ##### 🔎 searching for new job oppurtunities 
 
-### 🛠 My tech stack:
+### 🛠 My tech stack
  - HTML, CSS
  - JS, React.js, Node.js
  - Express.js, MongoDB
@@ -16,7 +16,7 @@
 ##### Commits
 `278 contributions in 2022`
 
-### 📞 Contacts:
+### 📞 Contacts
 - [LinkedIn](https://www.linkedin.com/in/nadezhda-terenteva-224922127/)
 - [Telegram](https://t.me/nadya_terenteva)
 - Mail: nadja.terenteva@gmail.com
