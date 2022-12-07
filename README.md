@@ -2,7 +2,7 @@
 
 ##### 🌱 currently exploring frontend development 
 ##### 🌱 created several study projects at a coding bootcamp by Yandex.Practicum.
-##### 🔎 searching for new job oppurtunities 
+##### 🔎 searching for new job opportunities 
 
 ### 🛠 My tech stack
  - HTML, CSS
