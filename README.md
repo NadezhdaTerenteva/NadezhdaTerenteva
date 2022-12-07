@@ -1,6 +1,7 @@
 #### 👋  Hi there, I'm Nadya 
 
 ##### 🌱 currently exploring frontend development 
+##### 🌱 created several study projects at a coding bootcamp by Yandex.Practicum.
 ##### 🔎 searching for new job oppurtunities 
 
 ### 🛠 My tech stack
